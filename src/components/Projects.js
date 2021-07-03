@@ -14,8 +14,8 @@ const Projects = () => {
                 <img src={Project1R} className="d-block w-100" alt="cocktails" />
             </div>
             <div className="project-description text-center">
-              <h3 className="card-title">Lazy Mixology</h3>
-              <p className="card-text mb-2">Cocktail Recipes By Ingredient</p>
+              <h3 className="card-title">CraftStor</h3>
+              <p className="card-text mb-2">Networking Platform for Crafts People</p>
               <a href="https://jlamonade.github.io/cocktail-maker/" className="btn btn-dark btn-sm mx-1" target="_blank" rel="noreferrer">Live</a>
               <a href="https://github.com/jlamonade/cocktail-maker" className="btn btn-dark btn-sm mx-1" target="_blank" rel="noreferrer">Repo</a>
             </div>
@@ -27,10 +27,10 @@ const Projects = () => {
               </div>
             </div>
             <div className="project-description text-center">
-              <h3 className="card-title fs-5">AccuCastDash</h3>
-              <p className="card-text fs-6">Weather Dashboard</p>
-              <a href="https://jlamonade.github.io/AccuCastDash/" className="btn btn-dark btn-sm mx-1" target="_blank" rel="noreferrer">Live</a>
-              <a href="https://github.com/jlamonade/AccuCastDash" className="btn btn-dark btn-sm mx-1" target="_blank" rel="noreferrer">Repo</a>
+              <h3 className="card-title fs-5">Movie Logger</h3>
+              <p className="card-text fs-6">Log Your Favorite Movies</p>
+              <a href="https://movie-logger2021.herokuapp.com/" className="btn btn-dark btn-sm mx-1" target="_blank" rel="noreferrer">Live</a>
+              <a href="https://github.com/mandellbutler/Movie-Logger" className="btn btn-dark btn-sm mx-1" target="_blank" rel="noreferrer">Repo</a>
             </div>
           </section>
           <section className="card col-lg-4 col-md-4 col-sm-12 border-0">
@@ -38,10 +38,10 @@ const Projects = () => {
               <img src={Project3R} className="d-block w-100" alt="lazy mixology preview" />
             </div>
             <div className="project-description text-center">
-              <h3 className="card-title fs-5">Quiz App</h3>
-              <p className="card-text fs-6">Test Your Knowledge</p>
-              <a href="https://jlamonade.github.io/Quiz-App/" className="btn btn-dark btn-sm mx-1" target="_blank" rel="noreferrer">Live</a>
-              <a href="https://github.com/jlamonade/Quiz-App" className="btn btn-dark btn-sm mx-1" target="_blank" rel="noreferrer">Repo</a>
+              <h3 className="card-title fs-5">Lazy Mixology</h3>
+              <p className="card-text fs-6">Cocktail Recipes by Ingredients</p>
+              <a href="https://jlamonade.github.io/cocktail-maker/" className="btn btn-dark btn-sm mx-1" target="_blank" rel="noreferrer">Live</a>
+              <a href="https://github.com/jlamonade/cocktail-maker" className="btn btn-dark btn-sm mx-1" target="_blank" rel="noreferrer">Repo</a>
             </div>
           </section>
           <section className="card col-lg-4 col-md-4 col-sm-12 border-0">
